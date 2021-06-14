@@ -39,6 +39,14 @@
         settings:controller="com.android.settings.connecteddevice.TopLevelConnectedDevicesPreferenceController"/>
 
     <Preference
+        android:key="top_level_lessaosp"
+        android:title="@string/lessaosp_dashboard_title"
+        android:summary="@string/lessaosp_dashboard_summary"
+        android:icon="@drawable/ic_homepage_lessaosp"
+        android:order="-105"
+        android:fragment="com.lessaosp.settings.LessaospSettings"/>
+
+    <Preference
         android:key="top_level_apps_and_notifs"
         android:title="@string/app_and_notification_dashboard_title"
         android:summary="@string/app_and_notification_dashboard_summary"
