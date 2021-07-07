@@ -56,10 +56,10 @@
     <!-- Whether the dots will be drawn when using the lockscreen pattern -->
     <string name="lockpattern_settings_enable_dots_title">Show pattern dots</string>
 
-    <!-- Screenshot sound -->
-    <string name="screenshot_sound_title">Screenshot sound</string>
-
     <!-- Mantle -->
     <string name="lessaosp_dashboard_title">Mantle</string>
     <string name="lessaosp_dashboard_summary">Cloak your device with features</string>
+
+    <!-- Screenshot sound -->
+    <string name="screenshot_sound_title">Screenshot sound</string> 
 </resources>
